@@ -103,7 +103,7 @@ CREATE TABLE `veterinario` (
 
 LOCK TABLES `veterinario` WRITE;
 /*!40000 ALTER TABLE `veterinario` DISABLE KEYS */;
-INSERT INTO `veterinario` VALUES (26,'Gustavo Júlio',21,'33984076469','gustavojulio','senha21'),(27,'Flávio Oliveira',37,'33984254178','flaviooliveira','flavio1501'),(28,'Fernanda Lopes',42,'35984523698','lopesfernanda','vet2356'),(29,'João da Silva',25,'11987654321','joaosilva123','senha123'),(30,'Maria Santos',34,'21123456789','mariasantos34','123456'),(31,'Carlos Pereira',42,'31555555555','carlospereira42','segur@2023');
+INSERT INTO `veterinario` VALUES (26,'Gustavo Júlio',21,'33984085689','gustavojulio','senha21'),(27,'Flávio Oliveira',37,'33984254178','flaviooliveira','flavio1501'),(28,'Fernanda Lopes',42,'35984523698','lopesfernanda','vet2356'),(29,'João da Silva',25,'11987654321','joaosilva123','senha123'),(30,'Maria Santos',34,'21123456789','mariasantos34','123456'),(31,'Carlos Pereira',42,'31555555555','carlospereira42','segur@2023');
 /*!40000 ALTER TABLE `veterinario` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
